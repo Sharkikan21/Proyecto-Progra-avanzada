@@ -1,0 +1,8 @@
+numpyro==0.13.2
+jax[cpu]==0.4.23
+pandas
+matplotlib
+dash
+scikit-learn
+plotly
+numpy
