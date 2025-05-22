@@ -1,0 +1,6 @@
+pymc
+arviz
+dash
+numpy
+pandas
+plotly
